@@ -2,122 +2,51 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# What is Hexify.ai
 
-[Link to another page](./another-page.html).
+Hexify is automation for experts that provides
 
-There should be whitespace between paragraphs.
+- Automated transcription
+- Automated speaker segmentation
+- Automated translation
+- Automatic Voice Over via Text-to-Speech
+- Automatic Video/audio content summary
+- Automatic Blog/article creation
+- Automatic social media video creation [shorts, ticktoc, etc.]
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Why Hexify.ai
 
-# Header 1
+## Efficiency
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hexagons are the most efficient shape, covering the most area with the least perimeter. This can metaphorically suggest efficient use of resources or information, an excellent trait for a transcription service that aims to be thorough and concise.
 
-## Header 2
+## Connection
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Each side of a hexagon can be connected to another, representing the concept of networking and connectivity. For a transcription company, this can symbolize the connection between spoken words and their written form, as well as the link between the speaker and the audience.
 
-### Header 3
+## Unification
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Hexagons fit together without any gaps, which in nature maximizes storage space (like in the honeycomb). For a company, this can symbolize the seamless integration of services and the unification of various elements into a cohesive whole.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Balance and Harmony
 
-#### Header 4
+The hexagon is a stable shape that's often associated with balance and harmony. It’s evenly balanced, which may be interpreted as a metaphor for a transcription service that maintains the balance between speed and accuracy.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Strength
 
-##### Header 5
+In structures, hexagonal shapes are known for their strength and durability. They're often used in design to convey stability and reliability, two qualities that are valuable for a company trusted with accurately transcribing important information.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Versatility
 
-###### Header 6
+The hexagon's six sides offer versatility in design, making it adaptable to various branding materials and contexts. It’s a shape that’s both functional and aesthetic.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+By incorporating a hexagon into the logo of a transcription service like Hexify, the design communicates these qualities subconsciously, suggesting that the company is efficient, reliable, connects well with its clients, and unifies their spoken content into a harmonious written form.
 
-### There's a horizontal rule below this.
+# Who Uses Hexify.ai
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- Psychologists [and other experts]
+- Coaches
+- Conference owners and organizers
+- Marketeers and marketing departments
+- Audio/video digital archive holders [such as universities]
+- News companies

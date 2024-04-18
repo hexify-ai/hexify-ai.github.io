@@ -18,17 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hexify.ai - Dream Big, We Handle the Details
-email: your-email@example.com
+title: Hexify.ai
+email: contact.us@hexify.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  Hexify is automation for experts that provides
-    - Automated transcription
-    - Automated speaker segmentation
-    - Automated translation
-    - Automatic Voice Over via Text-to-Speech
-    - Automatic Video/audio content summary
-    - Automatic Blog/article creation
-    - Automatic social media video creation [shorts, ticktoc, etc.]
+  Hexify.ai - Dream Big, We Handle the Details
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hexify.ai" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hexify-ai
