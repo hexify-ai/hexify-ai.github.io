@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# What is Hexify.ai
+# What is Hexify.ai?
+
 
 Hexify is automation for experts that provides
 
@@ -12,8 +13,9 @@ Hexify is automation for experts that provides
 - Automatic Voice Over via Text-to-Speech
 - Automatic Video/audio content summary
 - Automatic Blog/article creation
-- Automatic social media video creation [shorts, ticktoc, etc.]
+- Automatic social media video creation [Youtube© Shorts, TicTok©, etc.]
 
+<!--
 # Why Hexify.ai
 
 ## Efficiency
@@ -42,7 +44,9 @@ The hexagon's six sides offer versatility in design, making it adaptable to vari
 
 By incorporating a hexagon into the logo of a transcription service like Hexify, the design communicates these qualities subconsciously, suggesting that the company is efficient, reliable, connects well with its clients, and unifies their spoken content into a harmonious written form.
 
-# Who Uses Hexify.ai
+-->
+
+# Who Uses Hexify.ai?
 
 - Psychologists [and other experts]
 - Coaches
