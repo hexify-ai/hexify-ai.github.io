@@ -1,20 +1,74 @@
 ---
 ---
 
+@import "jekyll-theme-time-machine";
+
+//#region THEME
 :root {
   --wrapper-width: 900px;
   --background-color-start: #88daf7;
   --background-color-end: #0172b0;
 }
 
-@import "jekyll-theme-time-machine";
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 
-//#region THEME
-@import "_override-theme";
+  background-image: linear-gradient(
+    135deg,
+    var(--background-color-start),
+    var(--background-color-end)
+  );
+}
+
+.wrapper {
+  width: var(--wrapper-width);
+}
+
+.center {
+  max-width: calc(var(--wrapper-width) * 0.5);
+  margin-left: auto;
+  margin-right: auto;
+}
 //#endregion
 
-//#region COMPONENTS
-@import "_cards";
-@import "_jumbotron";
-//#endregion
+//#region CARDS
+.card-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
 
+.card {
+  padding: 20px;
+  margin: 20px;
+  max-width: 200px;
+
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s;
+
+  &:hover {
+    transform: translateY(-5px);
+    h2 {
+      margin: 0;
+      color: #333;
+    }
+    p {
+      color: #666;
+    }
+    img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      margin-bottom: 15px;
+    }
+  }
+}
+//#endregion
