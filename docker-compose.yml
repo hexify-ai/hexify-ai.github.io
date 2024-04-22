@@ -1,6 +1,6 @@
 version: "3.8"
 services:
-  jekyll:
+  serve:
     image: bretfisher/jekyll-serve
     volumes:
       - .:/site
