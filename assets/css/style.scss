@@ -2,4 +2,14 @@
 ---
 
 @import "jekyll-theme-time-machine";
-@import "overrides";
+
+//#region THEME
+@import "variables.scss";
+@import "override-theme";
+//#endregion
+
+//#region COMPONENTS
+@import "cards";
+@import "jumbotron";
+//#endregion
+
