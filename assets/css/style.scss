@@ -1,10 +1,15 @@
 ---
 ---
 
+:root {
+  --wrapper-width: 900px;
+  --background-color-start: #88daf7;
+  --background-color-end: #0172b0;
+}
+
 @import "jekyll-theme-time-machine";
 
 //#region THEME
-@import "variables";
 @import "override-theme";
 //#endregion
 
