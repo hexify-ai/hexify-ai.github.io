@@ -35,9 +35,15 @@
           <span class="trc"></span>
         </div>
 
-        <img class="center" src="assets/images/hexify-ai.logo.png" alt="Hexify Logo" />
+        <div class="center">
+          <img src="assets/images/hexify-ai.logo.png" alt="Hexify Logo" />
+        </div>
 
-        <article class="markdown-body">{{ content }}</article>
+        <article class="markdown-body center">
+          <div>{% include what.card.html %}</div>
+          <div>{% include who.card.html %}</div>
+          <div>{% include founders.card.html %}</div>
+        </article>
       </div>
     </div>
     <footer></footer>

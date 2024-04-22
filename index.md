@@ -5,16 +5,6 @@ layout: default
 # What is Hexify.ai?
 
 
-Hexify is automation for experts that provides
-
-- Automated transcription
-- Automated speaker segmentation
-- Automated translation
-- Automatic Voice Over via Text-to-Speech
-- Automatic Video/audio content summary
-- Automatic Blog/article creation
-- Automatic social media video creation [Youtube© Shorts, TicTok©, etc.]
-
 <!--
 # Why Hexify.ai
 

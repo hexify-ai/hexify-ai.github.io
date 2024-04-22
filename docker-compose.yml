@@ -7,4 +7,5 @@ services:
     ports:
       - "5000:4000"
       - "35729:35729"
+    # command: tail -F /dev/null
     command: bundle exec jekyll serve --force_polling -H 0.0.0.0 -P 4000
