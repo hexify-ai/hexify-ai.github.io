@@ -10,11 +10,11 @@
 @import "jekyll-theme-time-machine";
 
 //#region THEME
-@import "override-theme";
+@import "_override-theme";
 //#endregion
 
 //#region COMPONENTS
-@import "cards";
-@import "jumbotron";
+@import "_cards";
+@import "_jumbotron";
 //#endregion
 
